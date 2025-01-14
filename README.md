@@ -1,11 +1,15 @@
 My Goal Tracker App
 A simple and interactive app that helps you track and achieve your goals with ease! It provides a clean user interface to add, update, and visualize your progress. You can also switch between dark and light modes, keeping things fresh!
 
+
+
 Features:
 Goal Tracking: Add your goals and monitor your progress.
 Local Storage: Your goals are saved automatically using local storage, so you can access them anytime.
 Light/Dark Mode: Toggle between light and dark themes with a smooth transition.
 Animated Interface: Animated progress and gradient text make your experience visually appealing.
+
+
 
 Technologies Used:
 HTML5: For structuring the content.
@@ -15,7 +19,7 @@ JavaScript: For app functionality and local storage management.
 Installation:
 Clone this repository to your local machine.
 
-git clone https://github.com/your-username/goal-tracker-app.git
+git clone https://abhishek-profiles.github.io/gradient-goals/
 Open the index.html file in your browser.
 
 Alternatively, you can deploy the app using any web hosting services.
